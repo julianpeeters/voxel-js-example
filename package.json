@@ -1,0 +1,24 @@
+{
+  "name": "voxel-js-example",
+  "version": "0.0.0",
+  "description": "testing out a very simple voxel js test to throw on my web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:julianpeeters/voxel-js-example.git"
+  },
+  "author": "Julian Peeters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianpeeters/voxel-js-example/issues"
+  },
+  "homepage": "https://github.com/julianpeeters/voxel-js-example",
+  "devDependencies": {
+    "voxel-engine": "~0.20.0",
+    "voxel-player": "~0.1.0",
+    "voxel-hello-world": "~0.6.0"
+  }
+}
